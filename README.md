@@ -15,4 +15,4 @@ https://www.nand2tetris.org/
   - [x] Or
   - [ ] Or8Way
   - [ ] Or16
-  - [ ] Xor
+  - [] Xor
