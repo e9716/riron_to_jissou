@@ -3,7 +3,7 @@ https://www.nand2tetris.org/
 - [ ] 1
   - [x] And
   - [ ] And16
-  - [ ] DMux
+  - [x] DMux
   - [ ] DMux4Way
   - [ ] DMux8Way
   - [x] Mux
