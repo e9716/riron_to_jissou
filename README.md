@@ -12,7 +12,7 @@ https://www.nand2tetris.org/
   - [ ] Mux16
   - [x] Not
   - [ ] Not16
-  - [ ] Or
+  - [x] Or
   - [ ] Or8Way
   - [ ] Or16
   - [ ] Xor
