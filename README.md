@@ -6,7 +6,7 @@ https://www.nand2tetris.org/
   - [ ] DMux
   - [ ] DMux4Way
   - [ ] DMux8Way
-  - [ ] Mux
+  - [x] Mux
   - [ ] Mux4Way
   - [ ] Mux8Way
   - [ ] Mux16
