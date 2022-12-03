@@ -21,4 +21,4 @@ https://www.nand2tetris.org/
   - [x] FullAdder
   - [x] Add16
   - [ ] ALU
-  - [ ] Inc16
+  - [x] Inc16
