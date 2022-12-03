@@ -16,3 +16,9 @@ https://www.nand2tetris.org/
   - [ ] Or8Way
   - [ ] Or16
   - [x] Xor
+- [ ] 2
+  - [ ] HalfAdder
+  - [ ] FullAdder
+  - [ ] Add16
+  - [ ] ALU
+  - [ ] Inc16
