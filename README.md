@@ -19,6 +19,6 @@ https://www.nand2tetris.org/
 - [ ] 2
   - [x] HalfAdder
   - [x] FullAdder
-  - [ ] Add16
+  - [x] Add16
   - [ ] ALU
   - [ ] Inc16
