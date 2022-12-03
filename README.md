@@ -17,7 +17,7 @@ https://www.nand2tetris.org/
   - [ ] Or16
   - [x] Xor
 - [ ] 2
-  - [ ] HalfAdder
+  - [x] HalfAdder
   - [ ] FullAdder
   - [ ] Add16
   - [ ] ALU
